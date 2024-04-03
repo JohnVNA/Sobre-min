@@ -1,5 +1,3 @@
-# Sobre-min
-
 **README.md**
 
 # Sobre Mim
